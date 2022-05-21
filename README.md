@@ -1,4 +1,3 @@
-
 [![MasterHead](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ.gif)]
 <h1 align="center">Hi 👋, I'm Gaurav Sondhiya</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
